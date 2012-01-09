@@ -1,0 +1,13 @@
+============================== TODO LIST ==============================
+
+    - Replace all the <h> title by the Codeigniter equivalent
+    - Replace all the HTML by HTML5
+    - Use a title variable to set each title
+    - Use Bootstrap for the design
+    - Use Peter's calendar (&hour) stuff for the expenses date
+    - Deleting the plan_id session value in all cases
+    - The friend list in the expense must show only the friends in the plan
+    - Put the if(!defined('BASEPATH')) exit('No direct script access allowed'); everywhere
+    - Adding the ability for the user to choose a different date for the event
+    - Use the CI's object model for every request (no direct request)
+    - Update CodeIgniter to v2.1.0
