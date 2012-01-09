@@ -10,4 +10,3 @@
     - Put the if(!defined('BASEPATH')) exit('No direct script access allowed'); everywhere
     - Adding the ability for the user to choose a different date for the event
     - Use the CI's object model for every request (no direct request)
-    - Update CodeIgniter to v2.1.0
